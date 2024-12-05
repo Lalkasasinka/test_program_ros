@@ -1,0 +1,65 @@
+header:
+  seq: 1376
+  stamp:
+    secs: 1722516491
+    nsecs: 291044950
+  frame_id: 'base_link'
+twist:
+  linear:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  angular:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+---
+header:
+  seq: 1377
+  stamp:
+    secs: 1722516491
+    nsecs: 301332235
+  frame_id: 'base_link'
+twist:
+  linear:
+    x: 0.044713202863931656
+    y: 0.0
+    z: 0.0
+  angular:
+    x: 0.0
+    y: 0.0
+    z: 0.008642056956887245
+---
+header:
+  seq: 1378
+  stamp:
+    secs: 1722516491
+    nsecs: 311350345
+  frame_id: 'base_link'
+twist:
+  linear:
+    x: 0.044713202863931656
+    y: 0.0
+    z: 0.0
+  angular:
+    x: 0.0
+    y: 0.0
+    z: 0.008642056956887245
+---
+header:
+  seq: 1379
+  stamp:
+    secs: 1722516491
+    nsecs: 321237087
+  frame_id: 'base_link'
+twist:
+  linear:
+    x: 0.044713202863931656
+    y: 0.0
+    z: 0.0
+  angular:
+    x: 0.0
+    y: 0.0
+    z: 0.008642056956887245
+---
+
