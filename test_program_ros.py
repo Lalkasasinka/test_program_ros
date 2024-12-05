@@ -42,7 +42,7 @@ def calc_time(start_stamp, end_stamp):
 
 
 def main():
-    input_data = read_input('inp.yaml')
+    input_data = read_input('input_lite.yaml')
     output_data = []
     for i in range(len(input_data)-1):
         time = 0
@@ -70,7 +70,7 @@ def main():
         })
 
         # Запись преобразованных данных в output_lite.yaml
-        write_output('output_lite.yaml', output_data)
+    write_output('output_lite.yaml', output_data)
 
 
 if __name__ == '__main__':
